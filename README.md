@@ -1,6 +1,6 @@
 # Zomato Bengaluru Restaurant Analysis
 
-Welcome to the Zomato Bengaluru Restaurant Analysis repository. This project provides an in-depth analysis of restaurants listed on Zomato in Bengaluru. The dataset comprises over 40,000 records and 9 features, capturing essential details about various restaurants such as their names, locations, types, ratings, and more. You can view Google collab https://colab.research.google.com/drive/1TaRVExNtLxhv5xeCU0WL3WzW8SntjI1m .
+Welcome to the Zomato Bengaluru Restaurant Analysis repository. This project provides an in-depth analysis of restaurants listed on Zomato in Bengaluru. The dataset comprises over 40,000 records and 9 features, capturing essential details about various restaurants such as their names, locations, types, ratings, and more. You can view Google Collab notebook [[here](https://colab.research.google.com/drive/1TaRVExNtLxhv5xeCU0WL3WzW8SntjI1m)] .
 
 ## Contents
 
